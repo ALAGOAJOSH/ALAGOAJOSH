@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALAGOAJOSHl
+- 👋 Hi, I’m @ALAGOAJOSH
 - 👀 I’m interested in Back-end development, AI and Machine learning.
 - 🌱 I’m currently learning advanced programming.
 - 💞️ I’m looking to collaborate on various projects.
